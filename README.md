@@ -1,4 +1,4 @@
 # disciplinatopicosessenciais
 
-disciplina do meu peimeiro periodo 
+disciplina do meu primeiro periodo 
 testando o envio de arquivos
